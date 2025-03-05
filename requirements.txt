@@ -1,9 +1,5 @@
 torch 
-
 torchvision 
-
 flask 
-
 Pillow 
-
 pandas
